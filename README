@@ -1,0 +1,8 @@
+This is a very, very simple example of a "map reduce" style MPI program. On
+Mac OS X (10.6, maybe other versions, maybe not), you can just do
+
+make
+make run
+
+and the program will run with four "nodes" on the local machine. See mpirun
+documentation for other configurations.
